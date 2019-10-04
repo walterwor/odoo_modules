@@ -17,8 +17,8 @@ Usage
 This module allows to add, update or remove the values of more than one records on the fly at the same time.
 
 Contributors
-Walter Rollet <oihanecrucelaegi@gmail.com>
-Augusto Fernández Gómez <support@serpentcs.com>
+Walter Rollet <walterrollet@consultoresinformaticos.com.ar>
+Augusto Fernández Gómez <afernandez@consultoresinformaticos.com.ar>
 
 Maintainer
 
