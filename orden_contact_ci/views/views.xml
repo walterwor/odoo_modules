@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+    <!-- Partner -->
+        <record id="view_partner_tree_inherit_res" model="ir.ui.view">
+            <field name="name">res.partner.tree.inherit_res</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_tree"/>
+            <field eval="8" name="priority"/>
+            <field name="arch" type="xml">
+                <field name="function" position="before">
+                    <field name="create_date" />
+                </field>
+            </field>
+        </record>
+  </data>
+</odoo>

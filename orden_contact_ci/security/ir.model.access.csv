@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_/mnt/extra-addons/orden_contact_ci_/mnt/extra-addons/orden_contact_ci,/mnt/extra-addons/orden_contact_ci./mnt/extra-addons/orden_contact_ci,model_/mnt/extra-addons/orden_contact_ci_/mnt/extra-addons/orden_contact_ci,,1,0,0,0
